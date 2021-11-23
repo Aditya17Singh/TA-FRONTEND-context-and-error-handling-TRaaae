@@ -8,6 +8,7 @@ function Main() {
       <div className="grid">
         <SectionOne />
         <SectionTwo />
+        
         <Location />
       </div>
     </section>
